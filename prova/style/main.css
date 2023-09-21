@@ -1,0 +1,12 @@
+@import url('personal-data.css');
+@import url('list.css');
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Noto+Sans+JP&display=swap');
+
+body{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+*{
+    background-image: url('https://th.bing.com/th/id/R.54d0087acc907fcdf35493baaf2fd97f?rik=wnA9yuQSCoT2BA&pid=ImgRaw&r=0');
+    background-size: contain;
+}
+
